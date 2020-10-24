@@ -1,0 +1,4 @@
+#Sat Oct 24 16:29:56 TRT 2020
+base.0=/home/san/React-Native-Projects/API/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
